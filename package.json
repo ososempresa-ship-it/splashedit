@@ -4,7 +4,5 @@
   "displayName": "Splashedit",
   "description": "A toolkit for PSX asset management within Unity",
   "unity": "6000.0",
-  "dependencies": {
-    "com.unity.ai.navigation": "2.0.6"
-  }
+  "dependencies": { }
 }
