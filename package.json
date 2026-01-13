@@ -1,8 +1,13 @@
 {
-  "name": "net.psxsplash.splashedit",
-  "version": "1.0.0",
-  "displayName": "Splashedit",
-  "description": "A toolkit for PSX asset management within Unity",
-  "unity": "6000.0",
-  "dependencies": { }
+  "dependencies": {
+    "com.ososempresa.shipit.splashedit": "https://github.com/ososempresa-ship-it/splashedit.git",
+    "com.unity.collab-proxy": "2.3.1",
+    "com.unity.ide.rider": "3.0.24",
+    "com.unity.ide.visualstudio": "2.0.22",
+    "com.unity.ide.vscode": "1.2.5",
+    "com.unity.test-framework": "1.4.5",
+    "com.unity.textmeshpro": "3.0.9",
+    "com.unity.timeline": "1.8.7",
+    "com.unity.ugui": "2.0.0"
+  }
 }
